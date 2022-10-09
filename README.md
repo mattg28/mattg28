@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mattg28
-- 👀 I’m interested in programming, piano, gaming
+- 👀 I’m interested in programming, piano, guitar
 - 🌱 I’m currently learning Python and Java
-- 💞️ I’m looking to collaborate on literally any project because coding is fun
+- 💞️ I’m looking to collaborate on any project because coding is fun
 - 📫 How to reach me: Instagram: @m4ttp4rk
 
 <!---
